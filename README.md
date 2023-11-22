@@ -2,7 +2,7 @@
 Code for the paper
 > Naoufal EL BEKRI, Lucas DRUMETZ, Franck VERMET. "TIME CHANGED NORMALIZING FLOWS FOR ACCURATE SDE MODELING"
 > 
-![](tcnf_overview_git.png)
+![](tcnf_overview.png)
 
 
 ## Acknowledgements
